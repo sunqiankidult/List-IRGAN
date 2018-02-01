@@ -1,3 +1,3 @@
 # List-IRGAN
-This is the codes, data and experiment results for IST597-001 project List-IRGAN.
+This is the codes, data ,experiment results and the paperfor the project List-IRGAN.
 
